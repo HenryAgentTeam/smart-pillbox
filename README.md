@@ -30,4 +30,4 @@ The first implementation milestone is a state-machine simulator using synthetic 
 
 ## License
 
-Original contributions in this repository are licensed under [Apache-2.0](LICENSE). This license does not establish or change the license of the separate OpenRD project or the terms of its contributor agreement.
+Original contributions in this repository are licensed under [BSD-3-Clause](LICENSE). This license does not establish or change the license of the separate OpenRD project or the terms of its contributor agreement.
